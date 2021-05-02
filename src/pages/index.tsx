@@ -1,3 +1,5 @@
+import { Banner } from '../components/Banner'
+
 export default function Home() {
-  return <h1>World Trip</h1>
+  return <Banner />
 }
